@@ -79,7 +79,6 @@ const accountInfo = (cookieToken, accountId, ltoken, ltuid) => new Promise((reso
             'sec-fetch-dest': 'empty',
             'referer': 'https://webstatic-sea.hoyolab.com/',
             'accept-language': 'en-US,en;q=0.9',
-            // 'cookie': 'cookie_token=gVOts0EXsAL04d4xdoDRBsaiy5N9I7bplNV89he9; account_id=164839883; ltoken=2mJrCX1vXp2PkDKIooKiKBTVsUBy4OKixw8Iz10v; ltuid=164839883'
             'cookie': `${cookieToken}; ${accountId}; ${ltoken}; ${ltuid}`
         }
     })
