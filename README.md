@@ -14,6 +14,5 @@
 - Save required cookie
 
 <p align="center">
-  <img src="https://github.com/dkmpostor/hoyolab-daily-checkin/blob/main/screenshit.PNG" width="350" title="hover text">
-  <img src="https://github.com/dkmpostor/hoyolab-daily-checkin/blob/main/screenshit.PNG" width="350" alt="accessibility text">
+  <img src="https://github.com/dkmpostor/hoyolab-daily-checkin/blob/main/screenshit.PNG" width="500" title="Required Cookie">
 </p>
