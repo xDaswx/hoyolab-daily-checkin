@@ -15,4 +15,5 @@
 
 <p align="center">
   <img src="https://github.com/dkmpostor/hoyolab-daily-checkin/blob/main/screenshit.PNG" width="500" title="Required Cookie">
+  <img src="https://github.com/dkmpostor/hoyolab-daily-checkin/blob/main/result.PNG" width="500" title="Result">
 </p>
